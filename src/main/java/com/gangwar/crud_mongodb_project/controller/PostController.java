@@ -18,6 +18,11 @@ public class PostController {
     @Autowired
     SearchRepository searchRepository;
 
+    @GetMapping("/")
+    public String hello() {
+        return "Server is up!";
+    }
+
     @GetMapping("/posts")
     public List<Post> getallposts(){
 
