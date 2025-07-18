@@ -1,0 +1,6 @@
+com\gangwar\crud_mongodb_project\model\Post.class
+com\gangwar\crud_mongodb_project\impl\SearchRepositoryimpl.class
+com\gangwar\crud_mongodb_project\controller\PostController.class
+com\gangwar\crud_mongodb_project\repository\SearchRepository.class
+com\gangwar\crud_mongodb_project\repository\PostRepository.class
+com\gangwar\crud_mongodb_project\CrudMongodbProjectApplication.class
